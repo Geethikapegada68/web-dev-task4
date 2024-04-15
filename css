@@ -1,0 +1,45 @@
+/* styles.css */
+/* Basic styles for layout and appearance */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content-item {
+    width: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.content-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Additional styles for responsiveness, hover effects, etc. */
